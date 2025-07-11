@@ -1,0 +1,16 @@
+# Core Deep Learning Framework
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Scientific Computing
+numpy>=1.19.0
+scipy>=1.7.0
+
+# Data Loading and Processing
+h5py>=3.1.0
+scikit-learn>=0.24.0
+
+# Visualization
+matplotlib>=3.3.0
+
+
