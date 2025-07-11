@@ -22,7 +22,7 @@ The project implements hybrid autoencoder architectures that combine deep learni
 - **Description**: Synthetic data for Koopman operator analysis of traveling waves
 
 ### 2D Cylinder Koopman
-- **Data File**: `VORTALL.mat` (uploaded as ESM)
+- **Data File**: `VORTALL.mat` 
 - **Description**: Vorticity data for flow over cylinder analysis
 
 ### 1D Viscous Burgers' Surrogate
@@ -143,14 +143,12 @@ python generate_data.py
 
 If you use this code in your research, please cite the associated manuscript.
 
-## License
-
-[Add license information here]
-
-## Contributing
-
-[Add contribution guidelines here]
-
-## Contact
-
-[Add contact information here]
+@misc{somasekharan2025kolmogorovbarrierlearnableweighted,
+      title={Beyond the Kolmogorov Barrier: A Learnable Weighted Hybrid Autoencoder for Model Order Reduction}, 
+      author={Nithin Somasekharan and Shaowu Pan},
+      year={2025},
+      eprint={2410.18148},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG},
+      url={https://arxiv.org/abs/2410.18148}, 
+}
